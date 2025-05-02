@@ -1,5 +1,3 @@
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/7673329?v=4"  />
-
 ###
 
 <h2 align="center">Hi 👋! My name is Lester and I'm a Software Developer and Tech Advisor from Nicaragua</h2>
