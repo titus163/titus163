@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Lester Flores Rivas</h1>
-<h3 align="center">I am a dynamic IT Specialist and seasoned Software Developer with a robust foundation in system analysis, database administration, and a commitment to advancing in artificial intelligence and machine learning. Distinguished by over three decades of experience, I excel in comprehensive tech environments where operational efficiency and innovative solutions are key. My passion for embracing emerging technologies sets me apart from my peers, prepared to take the next leap in AI development. Having taught advanced technology courses and led multifaceted IT projects, my expertise has continually fostered growth in high-pressure settings. I'm recognized for executing strategic project management and elevating technical support to exceptional standards. As I seek to transition into focused AI and machine learning roles, I welcome introductions to professionals in the field or insights from those with strong industry networks. Your guidance would be invaluable on this journey.</h3>
+<p align="center">I am a dynamic IT Specialist and seasoned Software Developer with a robust foundation in system analysis, database administration, and a commitment to advancing in artificial intelligence and machine learning. Distinguished by over three decades of experience, I excel in comprehensive tech environments where operational efficiency and innovative solutions are key. My passion for embracing emerging technologies sets me apart from my peers, prepared to take the next leap in AI development. Having taught advanced technology courses and led multifaceted IT projects, my expertise has continually fostered growth in high-pressure settings. I'm recognized for executing strategic project management and elevating technical support to exceptional standards. As I seek to transition into focused AI and machine learning roles, I welcome introductions to professionals in the field or insights from those with strong industry networks. Your guidance would be invaluable on this journey.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=titus163&label=Profile%20views&color=0e75b6&style=flat" alt="titus163" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titus163&theme=onedark" alt="titus163" /></a> </p>
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React, Node, Python And ML**
 
 - 📫 How to reach me **comercial@nusentius.com**
-- 👨‍💻 All of my projects are available at **nusentius.com**
+- 👨‍💻 All of my projects are available at **https://www.nusentius.com**
 - 📄 Know about my experiences **https://www.linkedin.com/in/lflores163**
 
 <div> <a href="https://www.linkedin.com/in/lflores163" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
